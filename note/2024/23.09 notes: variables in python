@@ -1,3 +1,4 @@
+//variables
 variable names cant start with a number
 and they cant have a spcae in them use_ to get around this
 data types include int,string,bool,char,and a float
@@ -13,3 +14,14 @@ string = cheese is good
 def: word text letters
 double = 2.533563543653
 def: a decimal variablethat has 64bits of space exactly double a floats
+
+
+
+
+//operators
+< or> greater than or less than 
+<= less than or equal to 
+>= greater than orequal to
+// divide then round
+** to the power of
+mod find the remeainder of a division
