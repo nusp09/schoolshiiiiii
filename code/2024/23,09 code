@@ -1,0 +1,14 @@
+num1 = ""
+num2 = ""
+while type(num1) != int:
+    try:
+        num1 = int(input("what number do you want"))
+    except:
+        print("that is not a number try again")
+while type(num2) != int:
+    try:
+        num2 = int(input("what number do you want to add to it"))
+    except:
+        print("that isnot a number")
+num3 = num1 + num2
+print(num3)
