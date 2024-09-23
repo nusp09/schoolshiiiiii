@@ -1,1 +1,2 @@
-
+variable names cant start with a number
+and they cant have aspcae in them use_ to get around this
