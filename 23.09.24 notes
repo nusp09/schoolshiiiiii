@@ -1,2 +1,8 @@
 variable names cant start with a number
 and they cant have aspcae in them use_ to get around this
+data types include int,string,bool,char,and a float
+integer = 1
+float = 2.5
+bool = true
+char = g
+string = cheese
