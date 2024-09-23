@@ -1,5 +1,5 @@
 variable names cant start with a number
-and they cant have aspcae in them use_ to get around this
+and they cant have a spcae in them use_ to get around this
 data types include int,string,bool,char,and a float
 integer = 1
 def: any whole number
@@ -11,3 +11,5 @@ char = g
 def: a single letter
 string = cheese is good
 def: word text letters
+double = 2.533563543653
+def: a decimal variablethat has 64bits of space exactly double a floats
