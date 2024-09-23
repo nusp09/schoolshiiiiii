@@ -2,7 +2,12 @@ variable names cant start with a number
 and they cant have aspcae in them use_ to get around this
 data types include int,string,bool,char,and a float
 integer = 1
+def: any whole number
 float = 2.5
+def: a decimal number
 bool = true
+def: either a true or faulse represents 1 or 0
 char = g
-string = cheese
+def: a single letter
+string = cheese is good
+def: word text letters
