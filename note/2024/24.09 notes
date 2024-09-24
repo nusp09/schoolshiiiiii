@@ -2,13 +2,14 @@
 
 //starter
 which operation do we use for integer division?
-/
+//, sudo code DIV
 when storing currency, what data type do we need to use?
 float
 what data typewould you recomend for storing a phone number?
-integer
+string
 what would 10 MOD 3 =? 
 1
+mod def, what the remainder would be if we divided the first by the second
 describe the perpouse of casting?
 to turn a variablesdatatypeinto another like an integer into a float or a 1 letterstring into a char
 
