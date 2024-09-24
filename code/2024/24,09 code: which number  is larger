@@ -1,0 +1,16 @@
+num1 = ""
+num2 = ""
+while type(num1) != int:
+    try:
+        num1 = int(input("enter a number: "))
+    except:
+        print("that is not a valid input")
+while type(num2) != int:
+    try:
+        num2 = int(input("enter a number: "))
+    except:
+        print("that is not a valid input")
+if num1 > num2:
+    print("your first number is bigger than your second number!")
+if num1 < num2:
+    print("your first number is smaller than your second number!")
