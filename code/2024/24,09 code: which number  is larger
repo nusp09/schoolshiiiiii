@@ -12,5 +12,7 @@ while type(num2) != int:
         print("that is not a valid input")
 if num1 > num2:
     print("your first number is bigger than your second number!")
-if num1 < num2:
+elif num1 < num2:
     print("your first number is smaller than your second number!")
+else:
+    print("your numbers are the same")
