@@ -1,0 +1,21 @@
+def kg_to_lbs(kg):
+    lbs = kg * 2.2
+    return lbs
+
+def lbs_to_kg(lbs):
+    kg = lbs / 2.2
+    return kg
+
+# Get user input
+choice = input("Enter 'KG' to convert kg to lbs or 'LBS' to convert lbs to kg: ").strip().upper()
+
+if choice == 'KG':
+    kg = float(input("Enter weight in kg: "))
+    lbs = kg_to_lbs(kg)
+    print(f"{kg} kg is equal to {lbs:.2f} lbs")
+elif choice == 'LBS':
+    lbs = float(input("Enter weight in lbs: "))
+    kg = lbs_to_kg(lbs)
+    print(f"{lbs} lbs is equal to {kg:.2f} kg")
+else:
+    print("Invalid choice. Please enter 'KG' or 'LBS'.")
