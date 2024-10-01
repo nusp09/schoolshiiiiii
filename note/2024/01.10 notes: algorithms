@@ -1,0 +1,15 @@
+//low stakes quiz
+
+1. pint() will produce an error. what type of error is this?
+syntax error
+2. if a progam runs but produces an incorrect output what type of error is this?
+a logic error
+3. casting is an important part of programing. why do we do it?
+to make sure that we have the appropriate data type
+4. give one example of a function that can be used for casting.
+var <- "1"
+var <- int
+5. selection in python is known as?
+an if  statment
+
+//
