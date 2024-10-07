@@ -1,0 +1,15 @@
+// lowstakes quiz
+1. whan storing curemcy, what data type do we need to use?
+float
+2. what data type would you recomend forstoring aphne number?
+a string
+3. what would 10 MOD 3 = ?
+1
+4. how do we end a function?
+return
+5. how can we send multiple arguments to a function?
+when defining a function you use def function():
+to add an argument you need to have them in   ^
+                                              | there
+6. what is the differencebetween local scope and global?
+a local variable is native to that function where as a global variable can be used anywhere in the code
