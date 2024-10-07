@@ -1,0 +1,20 @@
+import random
+names = []
+
+
+
+def make_username(first_name, last_name):
+    words = ["brilliant", "brittle",  "delirious",  "joyful", "intrepid"]
+    word = random.choice(words)
+
+    return word + first_name[0:2] + last_name[random.randint(0, len(last_name) - 1)]
+
+first_name = input("Enter your first name: ").strip().lower()
+last_name = input("Enter your last name: ").strip().lower() 
+
+for i in range(5):
+    print(make_username(first_name, last_name))
+    names.append(make_username(first_name, last_name))
+with open('usernames.txt', 'w') as file:
+    for name in names:
+        file.write(name + '\n')
