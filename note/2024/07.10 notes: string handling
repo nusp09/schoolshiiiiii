@@ -14,4 +14,5 @@ to add an argument you need to have them in   ^
 6. what is the differencebetween local scope and global?
 a local variable is native to that function where as a global variable can be used anywhere in the code
 
-//
+// notes
+concatonate -> joining strings together
