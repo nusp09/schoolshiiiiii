@@ -1,0 +1,10 @@
+// low stakes quiz
+1) which operator do we use for integer division?
+//
+2) when storing currency what data type do we need to use?
+float
+3) what data type would you recommend for storing an email
+string
+4) what would 10 MOD 3 =
+1
+5) describe the purpose of casting?
