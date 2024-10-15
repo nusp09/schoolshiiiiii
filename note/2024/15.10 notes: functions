@@ -16,3 +16,4 @@ a peramiter is something that gets put into and used by the function
 can 2 functions have the same name?
 no
 we can use print(function)
+a local variable is a variable native to a function
