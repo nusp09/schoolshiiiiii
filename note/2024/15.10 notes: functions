@@ -15,5 +15,6 @@ turn one data type inrto another
 a peramiter is something that gets put into and used by the function
 can 2 functions have the same name?
 no
+type the function name and any peramiters / arguments it has
 we can use print(function)
 a local variable is a variable native to a function
