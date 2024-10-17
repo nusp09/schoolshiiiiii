@@ -1,1 +1,32 @@
 //starter
+//
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+| CPU                                                              |  motherboard                                              |
+| the cpu is the main proscessor of the computer it conbtrols all  |  the mother board is what has al the components on        |
+| the other components has an internal clock to syncronise all     |  it has got busses for all the components to communicate  |
+| the tasks clock speed is measured in mhz, usually has many cores |  and connect all the bits together                        |
+| for multitasking, and increased prosscesing power, each core has |                                                           |
+| a cache that is a small amount of volitile memory that is local  |                                                           |
+| to the cpu the alu is used for calculations and the busses are   |                                                           |
+| connect all the diffent parts                                    |                                                           |
+|------------------------------------------------------------------|-----------------------------------------------------------|
+| ROM                                                              | RAM                                                       |
+| read only memory is what has the bios on it cannot be written to | random access memory is used to load things in to the     |
+| as is implied by the name read only it usuallly has stuff like   | computer from the main drive it is volatile and is often  | 
+| the bios boot loader and bootstrap protocols to allow the        | much faster than regular memeory but comes in smaller     |
+| computer to post even if it does not have an os installed        | sizes.                                                    |
+|------------------------------------------------------------------|-----------------------------------------------------------|
+| SSD                                                              | HDD                                                       |
+| an ssd is a larger memory that stores things like the os and     | a hard disk drive uses a disk that is engraved apon buy a |
+| and programs it uses flash memory traping electrons to represent | thing and stores memory that way it is slower than both an|
+| binary digits. it is fater than a hard drive and has higher      | ssd and ram but can stil store a large amount of data     |
+| capacity and is less seceptable to damage / degredation as       |                                                           |
+| it has no moving components however it is slower than ram        |                                                           |
+|------------------------------------------------------------------|-----------------------------------------------------------|
+| ODD                                                              | perifarels                                                |
+| an optical disk drive uses optical disks and lasers to store     | things like a monitor keyboard or mouse they are used to  |
+| information examples include a dvd or cd it uses the depth of    | interact with the computer                                |
+| grooves in its serface to represent data and is non volatile     |                                                           |
+|------------------------------------------------------------------|-----------------------------------------------------------|
