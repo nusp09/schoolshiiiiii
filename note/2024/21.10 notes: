@@ -1,0 +1,10 @@
+// revision starter
+1. the keyword used to creae a function:
+def
+2. the keyword used to end a function
+return
+3. where do we call the function 
+function in the main body, after its defined
+4. 3 examples of functions thatyou use regularly
+print , input, float
+5. define casting
