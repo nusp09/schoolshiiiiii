@@ -1,0 +1,19 @@
+Starter
+
+1. what is the FDE cycle?
+- fetch decode execute
+2. why might teachers use cloud computing?
+- to acsess files from anywhere and to share files with peers
+3. name the 5 parts of the cpu:
+- buses, registers, main prossecsor, clock, alu
+4. what is the difference between these 2 proscessors
+
+-----------        -----------
+|   CPU   |        |   CPU   |
+|  clock  |        |  clock  |
+|  1.5GHz |        |  3G.Hz  |
+-----------        -----------
+
+- one has a faster clock
+5. what effect would this have on the computer?
+- it would be twice as fast
