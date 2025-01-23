@@ -23,3 +23,10 @@ or)  0 - 0 = 0, 0 - 1 = 1 , 1 - 0 = 1, 1 - 1 = 1
 and) if both true output true else false
 not) flip the bit
 xor) if 1 and 0 true if 1 and 1 or 0 and 0 false
+
+or
+-----
+| 0 |
+| 1 |
+| 0 |
+| 1 |
