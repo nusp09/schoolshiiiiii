@@ -17,3 +17,8 @@ Starter
 - one has a faster clock
 5. what effect would this have on the computer?
 - it would be twice as fast
+
+
+or)  0 - 0 = 0, 0 - 1 = 1 , 1 - 0 = 1, 1 - 1 = 1
+and) if both true output true else false
+not) flip the bit
