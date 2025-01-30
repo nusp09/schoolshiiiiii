@@ -1,0 +1,10 @@
+-starter-
+1. what are the 3 logic gates?
+  and or not
+2. draw each logic gate
+  https://excalidraw.com/#json=YCHTuq1O1SbeufZ_bSh6d,4aJ7LTk4P8doZZllcUxcLQ
+3. what is the diference betweem main memory, virtual memory, and secondary storage?
+  main storage is volatile and fast, virtual memory is a swap partition created oin the secondary memory that can 
+  be used to store things long term all of your files and inactive programs
+4. what is cache and how is it used in the fde cycle
+  it is where the cpu temporarily stores instructions befoere completing the fde cycle
