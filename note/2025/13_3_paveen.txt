@@ -1,1 +1,9 @@
 starter:
+1. what is a computer network?
+a system of computers connected together to share reasources
+2. what are hte dots and lines called oin a network diagram?
+the dots are the nodes and the lines are the edges
+3. why might it be a good idea to connect computers together and share reasources?
+so we can backup files or communicate
+4. what are the disadvantages of connecting computers accross a network?
+a virus can spread accross itand it might not always be secure
