@@ -7,3 +7,14 @@ the dots are the nodes and the lines are the edges
 so we can backup files or communicate
 4. what are the disadvantages of connecting computers accross a network?
 a virus can spread accross itand it might not always be secure
+peer to peer networks:
+------------------------------
+| advantages | disadvantages |
+|----------------------------|
+|easy to set | less secure   |
+| up         | if a host     |
+| quicker    |loses conne -  |
+| file       |ction their    |
+| shareing   |files are      |
+|            |unaccessable   |
+------------------------------
