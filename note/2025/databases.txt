@@ -15,3 +15,6 @@ and many issues including
 - data omcpnsistancies
 - delete anomolies
 - and insertion anomalies
+
+
+a primary key is a unique identifier for the data
