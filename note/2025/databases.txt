@@ -1,0 +1,17 @@
+a database conists of tables
+
+each table is known as a dayabase
+  each table will have:
+feilds - columns
+records - rows
+
+a database is a persistent organised data structure
+
+a flat file database only has 1 table 
+
+and many issues including
+- data redundancy 
+- update anomalies
+- data omcpnsistancies
+- delete anomolies
+- and insertion anomalies
