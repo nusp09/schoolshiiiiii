@@ -1,0 +1,14 @@
+for updateing 
+update
+  table
+set
+  field1=value1,field2=value2,...
+where 
+  condition
+
+  a primary key bacomes a forieng key when it is referenced in a table that is not its own
+
+  insert into 
+    table(field1,field2,field3,...)
+  values 
+    (value1,value2)
