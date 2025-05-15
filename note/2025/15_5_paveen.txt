@@ -1,0 +1,11 @@
+starter.
+1) 2b in binary
+  00101011
+2) 11000010 into hex
+  c2
+3) 30 hex in decimal
+  00110000
+4) 111+011
+  1010
+5) file size of an image with a width of 200 and a height of 10 with a colour depth of 2
+  250 bytes
