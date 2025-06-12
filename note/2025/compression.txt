@@ -1,0 +1,17 @@
+12/06/2025
+
+why do we compress stuff
+we want to save space/storage
+quicker download/upload speeds
+lower bandwidth
+
+
+lossy compression:
+lossy compression is when you compress a file by getting rid of data this is an irreversable change
+it perminantly deletes parts of data 
+e.g.
+  reducing the colour depth of an image
+  reducing the resolution of an image
+  lower the sample rate
+  lower the sample resolution
+it can be good if you remove things that humans cannot tell
