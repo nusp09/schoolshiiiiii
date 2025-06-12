@@ -30,4 +30,8 @@ compressed file types:
     bzip2
     gzip
 
-    
+
+lossless compression:
+no data is lost when data is compressed 
+however its not very effective for sound and lossy can coimpress to a smaller size
+example:png
