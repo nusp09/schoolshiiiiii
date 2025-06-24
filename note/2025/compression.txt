@@ -35,3 +35,22 @@ lossless compression:
 no data is lost when data is compressed 
 however its not very effective for sound and lossy can coimpress to a smaller size
 example:png
+
+
+
+
+huffman encoding 
+huffman is a method of lossles compression 
+this is based on the frequency of data items
+it uses a binary tree to organise the data
+
+huffman encoding uses a binary tree where the nodes are the frequency of the letters and the tree expands the deeper you go the less likely the letter is to appearon the huffman binary tree a left edge is represented by a 0 and a right edge is represented as a 1
+this means that the most frequent letters require less data to represent e.g.
+
+abaracadabra
+
+the letter a appears 6 times so would be the first left node as 6                    12
+                                                                                    /  \
+                                                                                  /      \
+                                                                                6         6
+                                                                                a          
