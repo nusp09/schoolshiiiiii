@@ -47,10 +47,19 @@ it uses a binary tree to organise the data
 huffman encoding uses a binary tree where the nodes are the frequency of the letters and the tree expands the deeper you go the less likely the letter is to appearon the huffman binary tree a left edge is represented by a 0 and a right edge is represented as a 1
 this means that the most frequent letters require less data to represent e.g.
 
-abaracadabra
+abaracadabra                                                                     huffman tree
 
-the letter a appears 6 times so would be the first left node as 6                    12
-                                                                                    /  \
-                                                                                  /      \
-                                                                                6         6
-                                                                                a          
+the letter a appears 6 times so would be the first left node is 6                    12
+so on an so on, each left edge is represented as a 0                            0   /  \  1
+and each right one is a 1                                                         /      \
+so givven the hiuffman tree we can encode the string                             6         6
+'abaracadabara' as                                                               a     0  /  \  1
+0100110011100111101001100                                                                /     \
+0 10 0 110 0 1110 0 1111 0 10 0 110 0                                                   2        4
+a b  a r   a c    a d    a b  a r   a                                                 b      0 /  \  1
+                                                                                              /     \
+                                                                                            2         2
+                                                                                            r     0  /  \  1
+                                                                                                    /     \
+                                                                                                    1      1
+                                                                                                    c      d
