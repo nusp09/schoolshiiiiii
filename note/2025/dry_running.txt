@@ -1,0 +1,1 @@
+dry running is a normal walkthrough of a peice of code usually on paper and using a trace table, the proscess of using a trace table is dry running, it is used to find logical errors in your code
