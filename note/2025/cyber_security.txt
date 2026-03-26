@@ -1,0 +1,29 @@
+1, who is garry mckinnon?
+Gary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2002 of perpetrating the "biggest military computer hack of all time".[1] McKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other technologies potentially useful to the public. On 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition to the United States.
+2,
+McKinnon was first interviewed by UK police on 19 March 2002 at the request of the US.[7] He was interviewed again on 8 August 2002, this time by the UK National Hi-Tech Crime Unit (NHTCU).[7][8] In November 2002, McKinnon was indicted by a federal grand jury in the Eastern District of Virginia.[9] The indictment contained seven counts of computer-related crime, each of which carried a potential ten-year jail sentence.[7]
+
+3,what laws does us and uk have to deter people from hacking their systerm
+The U.S. relies primarily on federal statutes to prosecute hacking activities, often using the interstate commerce clause to bring crimes under federal jurisdiction. 
+Wikipedia
+Wikipedia
+Computer Fraud and Abuse Act (CFAA) (18 U.S.C. § 1030): The primary anti-hacking law enacted in 1986. It makes it a federal crime to intentionally access a "protected computer" (any device connected to the internet) without authorization or in excess of authorization.
+Penalties: Range from fines and misdemeanors to 10–20 years in prison for causing damage to critical infrastructure, with life imprisonment possible if actions recklessly cause death.
+Electronic Communications Privacy Act (ECPA) of 1986: Prohibits unauthorized interception of electronic communications (wiretapping) and unauthorized access to stored communications, such as email.
+Identity Theft Enforcement and Restitution Act (2008): Amends the CFAA to allow for prosecution of cyber-extortion, such as threatening to damage a computer or release stolen data.
+Economic Espionage Act (18 U.S.C. § 1831-1839): Prohibits the theft of trade secrets, often used when hackers steal corporate intellectual property.
+Digital Millennium Copyright Act (DMCA): Criminalizes bypassing digital rights management (DRM) technologies to access copyrighted content. 
+ICLG.com
+ICLG.com
+ +20
+United Kingdom Cyber Hacking Laws
+The UK uses a mix of criminal law and data protection regulations to deter computer misuse. 
+Computer Misuse Act 1990 (CMA): The cornerstone UK law for prosecuting hackers, covering unauthorized access, modifying data, or launching malware.
+Section 1 (Unauthorized Access): Covers "hacking," punishable by up to two years in prison.
+Section 3A (Malware/Tools): Makes it illegal to supply or obtain software for hacking (e.g., creating ransomware), with up to 10 years imprisonment.
+Section 3ZA (Serious Damage): Added in 2015, this targets attacks on critical infrastructure (power grids, hospitals), carrying a potential life sentence.
+Data Protection Act 2018 (DPA) & UK-GDPR: Mandates that organizations implement strict security measures to protect personal data. Failing to do so can result in fines up to £17.5 million or 4% of annual global turnover.
+Telecommunications (Security) Act 2021: Imposes strict security duties on telecom providers (mobile carriers/broadband) to safeguard networks from cyberattacks, with daily fines up to 10% of turnover.
+Product Security and Telecommunications Infrastructure (PSTI) Regulation: Bans universal default passwords (like '12345') on smart devices to prevent botnet hacking. 
+
+  
